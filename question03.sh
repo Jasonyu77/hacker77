@@ -1,3 +1,3 @@
 touch file3.txt
-git add .
-git commit -m "q3"
+git add file3.txt
+git commit file3.txt
